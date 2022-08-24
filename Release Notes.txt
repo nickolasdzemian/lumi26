@@ -1,7 +1,0 @@
-
-2019-10-29 Version: 1.0.0
-Author: Duvanov Sergey
-Description: Версия для производства. 
-
-Changes:
-	+Первое внедрение.
