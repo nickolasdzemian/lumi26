@@ -126,8 +126,8 @@ void main(void)
         else
         {
           Mode = AIR_FLOOR_MODE;
-          LED_GREEN_ON;
-          delay_ms(500);
+          // LED_GREEN_ON;
+          // delay_ms(500);
         }
       }
       break;
